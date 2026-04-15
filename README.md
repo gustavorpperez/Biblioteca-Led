@@ -3,23 +3,23 @@
 Biblioteca simples para controle não bloqueante de LED com Arduino e ESP32, com uso facilitado e pratico do codigo.
 
 A classe `Led` permite:
-    - ligar o LED continuamente
-    - ligar por tempo determinado
-    - apagar
-    - alternar estado
-    - piscar continuamente
-    - piscar uma quantidade definida de vezes
+  - ligar o LED continuamente
+  - ligar por tempo determinado
+  - apagar
+  - alternar estado
+  - piscar continuamente
+  - piscar uma quantidade definida de vezes
 
 O funcionamento é não bloqueante, usando `millis()`.  
 Por isso, o método `update()` deve ser chamado repetidamente dentro do `loop()`.
 
 ---
 Dentro da biblioteca você ira ver:
-    - Piscar continuamente.
-    - Liga por tempo ao pressionar botão.
-    - Piscar N vezes e apagar.
-    - Alternar LED com botão (toggle).
-    - Múltiplos LEDs independentes.
+  - Piscar continuamente.
+  - Liga por tempo ao pressionar botão.
+  - Piscar N vezes e apagar.
+  - Alternar LED com botão (toggle).
+  - Múltiplos LEDs independentes.
 
 ## Estrutura da biblioteca
 
