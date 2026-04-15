@@ -1,3 +1,12 @@
+/* 
+Autor: Gustavo Rodrigues Padovan Perez
+Programa: Múltiplos LEDs independentes.
+Descrição: Programa da biblioteca do LED.h que mostra 3 tipos de leds com funcionamentos diferentes.
+data: 15/04/2026
+versão: 1.0 
+*/
+
+
 #include <Arduino.h>
 #include "LED.h"
 

@@ -1,3 +1,11 @@
+/* 
+Autor: Gustavo Rodrigues Padovan Perez
+Programa: Altenar LED com botão (toggle)
+Descrição: Programa da biblioteca do LED.h que altera o estado do led quando o botão é pressionado
+data: 15/04/2026
+versão: 1.0 
+*/
+
 #include <Arduino.h>
 #include "LED.h"
 
