@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include "LED.h"
 
-const uint8_t BOTAO = 4;
+const uint8_t BOTAO = 0;
 
 Led ledAmarelo(5);
 
